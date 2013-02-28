@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1C8F608F-D135-4BC1-81F7-6125CCB8B314}</ProjectGuid>
+    <ProjectGuid>{E679C3F0-5620-4BAF-B608-7FBF71738F71}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SumaSP</RootNamespace>
-    <AssemblyName>SumaSP</AssemblyName>
+    <RootNamespace>Coding4Fun.Kinect.Wpf.TestApplication</RootNamespace>
+    <AssemblyName>Coding4Fun.Kinect.Wpf.TestApplication</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -34,30 +34,23 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>..\AllButGlobal.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Coding4Fun.Kinect.Wpf, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Microsoft.Research.Kinect, Version=1.0.0.45, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Coding4Fun.Kinect.Toolkit\Coding4Fun.Kinect.Wpf.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="UIAutomationProvider" />
-    <Reference Include="UIAutomationTypes" />
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -67,7 +60,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="SumaSP.xaml">
+    <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -75,9 +68,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Aritmetica\ButtonClass.cs" />
-    <Compile Include="SumaSP.xaml.cs">
-      <DependentUpon>SumaSP.xaml</DependentUpon>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -95,14 +88,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="app.config" />
-    <None Include="bin\Release\Images\Thumbs.db" />
-    <None Include="packages.config" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -110,30 +102,9 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="conexiones\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Icons\Button-Play-256.png" />
-    <Resource Include="Icons\Button-Stop-256.png" />
-    <Resource Include="Icons\Button-Pause-256.png" />
-    <Resource Include="Icons\Button Close_256.png" />
-    <Resource Include="bin\Release\Images\background.jpg" />
-    <Resource Include="bin\Release\Images\bkg-school-board.jpg" />
-    <Resource Include="bin\Release\Images\blue-beach_1600_x_1200.jpg" />
-    <Resource Include="bin\Release\Images\hand_l.png" />
-    <Resource Include="bin\Release\Images\hand_r.png" />
-    <Resource Include="bin\Release\Images\imageClock.png" />
-    <Resource Include="bin\Release\Images\SquatGymBackground_3.jpg" />
-    <Resource Include="bin\Release\Images\SquatGymBackground_4.jpg" />
-    <Content Include="Sonidos\Vozsumasp.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Dependencies\KinectWpfViewers\Microsoft.Samples.Kinect.WpfViewers.csproj">
-      <Project>{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}</Project>
-      <Name>Microsoft.Samples.Kinect.WpfViewers</Name>
+    <ProjectReference Include="..\Coding4Fun.Kinect.Wpf\Coding4Fun.Kinect.Wpf.csproj">
+      <Project>{93AF58CB-B493-402C-96DF-12BCB22E9AA5}</Project>
+      <Name>Coding4Fun.Kinect.Wpf</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -81,9 +81,6 @@
             <!--<my:KinectSkeletonViewer Canvas.Left="687" Canvas.Top="402" Height="149" Name="kinectSkeletonViewer1" Width="115" />-->
         </Canvas>
         <Canvas Height="776" HorizontalAlignment="Left" Name="canvasMainDashboard" VerticalAlignment="Top" Width="1399" Margin="238,530,-1619,-634" Visibility="Collapsed" Grid.Column="2">
-            <Canvas.Background>
-                <ImageBrush ImageSource="/SumaSP;component/bin/Release/Images/SquatGymBackground_3.jpg" />
-            </Canvas.Background>
             <Canvas Canvas.Left="0" Canvas.Top="0" Height="777" Name="canvasActivityDashboard" Width="771" Background="#CFFFFFFF" Visibility="Collapsed">
                 <Label Canvas.Left="40" Canvas.Top="20" Content="My Dashboard" Height="55" Name="lblMyDashbd" Width="252" FontSize="32" FontWeight="Bold" />
                 <Label Canvas.Left="0" Canvas.Top="112" Content="    Activity" FontSize="32" FontWeight="Bold" Height="55" Name="lblActivityDashbd" Width="772" Background="#FF5C5151" Foreground="#FFFCFCFC" />
@@ -254,7 +251,7 @@
                 </Button.Background>
             </Button>
             <Button BorderThickness="4" x:Name="btnAceptar_correcto" Canvas.Left="279" Canvas.Top="630" Content=" MUY BIEN" FontSize="53.333" Foreground="White" Height="74" IsHitTestVisible="True" Width="775" Visibility="Collapsed" Click="btnAceptar_Click" Background="#FF085B0C"/>
-            <my:KinectSensorChooser x:Name="kinectSensorChooserSP" Canvas.Left="428" Canvas.Top="747"></my:KinectSensorChooser>
+            <!--<my:KinectSensorChooser x:Name="kinectSensorChooserSP" Canvas.Left="428" Canvas.Top="747"></my:KinectSensorChooser>-->
             <Button BorderThickness="4" Canvas.Left="40" Canvas.Top="491" Content="CE" FontSize="53.333" Foreground="White" Height="85" IsHitTestVisible="True" x:Name="bttLimpiarSuma" Visibility="Visible" Width="78" Click="btnLimpiarSuma_Click_1" BorderBrush="#FFEC0D0D">
                 <Button.Background>
                     <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">

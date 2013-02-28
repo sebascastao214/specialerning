@@ -17,6 +17,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Media.Media3D;
 using Microsoft.Kinect;
+using Microsoft.Speech.AudioFormat;
+using Microsoft.Speech.Recognition;
 using System.Globalization;
 
 
@@ -25,7 +27,7 @@ using System.Globalization;
 using Coding4Fun.Kinect.Wpf;
 using Coding4Fun.Kinect.Wpf.Controls;
 using System.Media;
-using Microsoft.Samples.Kinect.WpfViewers;
+//using Microsoft.Samples.Kinect.WpfViewers;
 #endregion
 
 #region Special Learning Ejercicio Suma
@@ -247,7 +249,7 @@ namespace SumaSP
             
 
             //sign up for the event
-            kinectSensorChooserSP.KinectSensorChanged += KinectSensorChooserPpKinectSensorChanged;
+            //kinectSensorChooserSP.KinectSensorChanged += KinectSensorChooserPpKinectSensorChanged;
             //canvasPersonalPreferences.Margin = new Thickness(244, 109, 0, 150);
 
             var soundPath = new Uri(Path.GetDirectoryName(
@@ -849,7 +851,7 @@ namespace SumaSP
             catch (System.IO.IOException)
             {
                 //this happens if another app is using the Kinect
-                kinectSensorChooserSP.AppConflictOccurred();
+                //kinectSensorChooserSP.AppConflictOccurred();
             }
         }
 
