@@ -1,0 +1,32 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.read.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\GenerateResource.write.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb

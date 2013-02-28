@@ -1,0 +1,50 @@
+C:\Users\glider\Google Drive\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Google Drive\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Google Drive\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Google Drive\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Google Drive\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Desktop\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Pictures\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Pictures\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Pictures\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Pictures\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Pictures\glider673\Google Drive\Interactive HealthCare Solutions\Software Developmet Protypes\PrototypeV2\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSPrototypeV1\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Desktop\PainPartner Project\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\bin\Debug\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\IHCSClassLibrary\obj\Debug\IHCSClassLibrary.pdb

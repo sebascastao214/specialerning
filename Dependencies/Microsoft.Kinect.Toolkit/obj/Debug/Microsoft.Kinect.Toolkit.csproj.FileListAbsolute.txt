@@ -1,0 +1,55 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+K:\Backups APP\Kinect SDK Tutorials\dev330_samples\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+F:\Interactive HealthCare Solutions\Projects\Dependencies\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

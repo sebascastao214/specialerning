@@ -1,0 +1,18 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\Kinect\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Controls\HoverButton.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\dev330_samples\Dependencies\c4fkinect\Coding4Fun.Kinect.Wpf\obj\Debug\Coding4Fun.Kinect.Wpf.pdb

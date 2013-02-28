@@ -1,0 +1,5 @@
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Release\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\bin\Release\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Release\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\IHCSClassLibrary\obj\Release\IHCSClassLibrary.pdb
