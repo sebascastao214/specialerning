@@ -1,0 +1,120 @@
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\IHCSClassLibrary.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\IHCSClassLibrary.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\17\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csprojResolveAssemblyReference.cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\17\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\17\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\17\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\17\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csproj.GenerateResource.Cache
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+F:\Interactive HealthCare Solutions\Projects\Squat Project\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csprojResolveAssemblyReference.cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csprojResolveAssemblyReference.cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csproj.GenerateResource.Cache
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+K:\Backups APP\Backup App. New Solution\BACKUP IHCS\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csproj.GenerateResource.Cache
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+F:\Interactive HealthCare Solutions\Projects\18(GreenScreen)\SkeletalTracking\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csproj.GenerateResource.Cache
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+E:\Users\Trabajo\Desktop\Kinect\Prototipos Special Lerning\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csprojResolveAssemblyReference.cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe.config
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\App.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_MarkupCompile.cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.baml
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM)window.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).g.resources
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\SquatROM.Properties.Resources.resources
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csproj.GenerateResource.Cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM).exe.licenses
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).exe
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Squat(ROM).pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\Squat(ROM)_Content.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\Squat(ROM)Solution\PainPartner_Squat(ROM)\squat(ROM)\squat(ROM)\obj\x86\Release\squat(ROM).csprojResolveAssemblyReference.cache

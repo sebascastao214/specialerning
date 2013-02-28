@@ -1,0 +1,45 @@
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\bin\Debug\KinectButton.exe
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\bin\Debug\KinectButton.pdb
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\MainWindow.baml
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\App.g.cs
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\KinectButton_MarkupCompile.cache
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\KinectButton.g.resources
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\KinectButton.Properties.Resources.resources
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\KinectButton.exe
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\obj\x86\Debug\KinectButton.pdb
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\SANDEEP\Documents\Visual Studio 2010\Projects\Kinect\KinectButton\KinectButton\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\KinectButton.exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\KinectButton.pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\KinectButton.exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\KinectButton.pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\MainWindow.baml
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\App.g.cs
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\KinectButton_MarkupCompile.cache
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\KinectButton.g.resources
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\KinectButton.Properties.Resources.resources
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Cervical(ROM).exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Roll(ROM).exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Yaw(ROM).exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Cervical(ROM).pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Roll(ROM).pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Yaw(ROM).pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\KinectButton\KinectButton\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.pdb

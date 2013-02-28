@@ -1,0 +1,35 @@
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\KinectButton.exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\KinectButton.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\MainWindow.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\App.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.Properties.Resources.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\KinectButton\obj\x86\Debug\KinectButton.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\KinectButton.exe
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\KinectButton.pdb
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\MainWindow.baml
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\MainWindow.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\App.g.cs
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton_MarkupCompile.cache
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.g.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.Properties.Resources.resources
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\glider\Documents\Kinect SDK Tutorials\KinectforWindowsSDKV1\KinectforWindowsSDKV1\5.Skeletal Tracking\SkeletalTracking\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\UserMeasure(Kinect)\userMeasure(Kinect)\bin\Debug\KinectButton.exe.config
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.exe
+C:\Users\glider\Downloads\kinectbutton-70bb23ba9e02\UserMeasure(Kinect)\userMeasure(Kinect)\obj\x86\Debug\KinectButton.pdb
