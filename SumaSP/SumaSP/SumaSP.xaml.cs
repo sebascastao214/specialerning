@@ -1016,7 +1016,8 @@ namespace SumaSP
             _timer.Stop();
             TimerCounter = 0;
             BoolStartSquat = false;
-            btnReset.Visibility = Visibility.Visible;
+            btnPause.Visibility = Visibility.Hidden;
+            btnPlay.Visibility = Visibility.Visible;
         }
 
         
@@ -1031,7 +1032,7 @@ namespace SumaSP
             BoolStartTimer = false;
             BoolStartSquat = false;
             _timer.Stop();                        
-            btnReset.Visibility = Visibility.Visible;
+            
         }
 
         private void QuitButtonClick(object sender, RoutedEventArgs e)
@@ -1338,16 +1339,17 @@ namespace SumaSP
             if (frandomNumber == sumatoria)
             {
                 btnAceptar_correcto.Visibility = Visibility.Visible;
+                _buttonSound.Play();
               //LblUserMessages.Content = "CORRECTO";
                // MessageBox.Show("Muy bien ¡¡¡\n\n La respuesta es CORRECTA", "SPECIAL LEARNING", MessageBoxButton.OK, MessageBoxImage.Asterisk);
             }
             else
             {
+                _buttonSound.Play();
                 btnAceptar_incorrecto.Visibility = Visibility.Visible;
                 //LblUserMessages.Content = "INCORRECTO";
               //  MessageBox.Show("Lo siento !!!\n\n La respuesta es INCORRECTA", "SPECIAL LEARNING", MessageBoxButton.OK,MessageBoxImage.Error);   
                 sumatoria = 0;
-                txtResultado.Text = "";
                 listNumeros.Clear();
             }          
         }
@@ -1356,7 +1358,7 @@ namespace SumaSP
         {
             btnAceptar_correcto.Visibility = Visibility.Hidden;
             btnAceptar_incorrecto.Visibility = Visibility.Hidden;
-            frandomNumber = randomNumber.Next(1, 10);
+            frandomNumber = randomNumber.Next(2, 20);
             lblRandomNumber.Content = frandomNumber.ToString();
             sumatoria = 0;
             LblUserMessages.Content = "";

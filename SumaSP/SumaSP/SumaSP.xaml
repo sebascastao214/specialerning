@@ -156,12 +156,12 @@
                     </RadialGradientBrush>
                 </Button.Background>
             </Button>
-            <TextBlock Canvas.Left="488" Canvas.Top="97" FontSize="72" Height="91" x:Name="txtBlockTimer" Text="00:00" TextAlignment="Center" Width="222" FontFamily="DigifaceWide" Foreground="#FFFFEFEF" FontWeight="Bold"/>
+            <TextBlock Canvas.Left="630" Canvas.Top="149" FontSize="72" Height="91" x:Name="txtBlockTimer" Text="00:00" TextAlignment="Center" Width="222" FontFamily="DigifaceWide" Foreground="#FFFFEFEF" FontWeight="Bold"/>
             <Label x:Name="lblClock" Content="" Height="36" Canvas.Left="604" Canvas.Top="599" Width="42" FontSize="24" RenderTransformOrigin="2.529,0.556" />
             <Label Canvas.Left="488" Canvas.Top="10" Height="40" Name="LblUserMessages" Width="488" FontSize="20" />
-            <Controls:HoverButton ActiveImageSource="/Images/RightHand.png" Canvas.Left="488" Canvas.Top="341" Height="72" ImageSize="100" ImageSource="/Images/RightHand.png" Name="kinectCursorMainWindow" Padding="0" Panel.ZIndex="1000" TimeInterval="1500" Width="222" Loaded="kinectCursorMainWindow_Loaded" />
+            <Controls:HoverButton ActiveImageSource="/Images/RightHand.png" Canvas.Left="828" Canvas.Top="358" Height="72" ImageSize="100" ImageSource="/Images/RightHand.png" Name="kinectCursorMainWindow" Padding="0" Panel.ZIndex="1000" TimeInterval="1500" Width="222" Loaded="kinectCursorMainWindow_Loaded" />
             <Label Canvas.Left="195" Canvas.Top="585" Content="  " FontSize="48" Foreground="#FFF8F2F2" Height="78" Name="UserPositioninglabel" Width="91" FontWeight="Bold" />
-            <Image Canvas.Left="1171" Canvas.Top="474" Height="102" Name="imageClock" Stretch="Fill" Width="88" />
+            <Image Canvas.Left="695" Canvas.Top="72" Height="102" Name="imageClock" Stretch="Fill" Width="88" />
             <Button BorderThickness="4" Canvas.Left="38" Canvas.Top="91" Content="1" FontSize="53.333" Foreground="White" Height="85" IsHitTestVisible="True" Name="btnNumber1" Visibility="Visible" Width="78" Click="btnNumber1_Click" BorderBrush="#FFEC0D0D">
                 <Button.Background>
                     <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
@@ -260,7 +260,7 @@
                     </LinearGradientBrush>
                 </Button.Background>
             </Button>
-            <Label x:Name="lblRandomNumber" Height="138" Canvas.Left="488" Canvas.Top="188" Width="222" FontSize="80" FontWeight="Bold" HorizontalAlignment="Center" ForceCursor="True" Foreground="#FFFBFBFB" HorizontalContentAlignment="Center"/>
+            <Label x:Name="lblRandomNumber" Height="138" Canvas.Left="630" Canvas.Top="278" Width="222" FontSize="80" FontWeight="Bold" HorizontalAlignment="Center" ForceCursor="True" Foreground="#FFFBFBFB" HorizontalContentAlignment="Center"/>
             <Separator Height="3" Canvas.Left="10" Margin="0" Canvas.Top="317" Width="394"/>
             <Separator Height="3" Canvas.Left="10" Margin="0" Canvas.Top="185" Width="394"/>
             <Separator Height="3" Canvas.Left="10" Margin="0" Canvas.Top="455" Width="394"/>
@@ -271,5 +271,6 @@
                 </Button.BindingGroup>
             </Button>
         </Canvas>
+        <Button Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" Height="100" Margin="1032,808,0,-208" VerticalAlignment="Top" Width="75"/>
     </Grid>    
 </Window>
