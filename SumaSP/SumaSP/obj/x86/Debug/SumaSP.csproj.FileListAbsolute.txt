@@ -17,3 +17,23 @@ E:\Users\Trabajo\Documents\GitHub\specialerning\SumaSP\SumaSP\obj\x86\Debug\Suma
 E:\Users\Trabajo\Documents\GitHub\specialerning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.csprojResolveAssemblyReference.cache
 E:\Users\Trabajo\Documents\GitHub\specialerning\SumaSP\SumaSP\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
 E:\Users\Trabajo\Documents\GitHub\specialerning\SumaSP\SumaSP\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\SumaSP.exe.config
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.exe
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\SumaSP.exe
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\SumaSP.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.csprojResolveAssemblyReference.cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.baml
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\App.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP_Content.g.cs
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP_MarkupCompile.cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.g.resources
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.Properties.Resources.resources
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.csproj.GenerateResource.Cache
+C:\Users\sebascastao\Documents\Visual Studio 2012\Projects\version 0.2\SumaSpecialLearning\SumaSP\SumaSP\obj\x86\Debug\SumaSP.exe.licenses
